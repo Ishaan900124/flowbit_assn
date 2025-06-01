@@ -52,7 +52,7 @@ cd backend
 pip install -r requirements.txt
 
 # Run the Flask server
-python app.py
+py app.py
 
 ```
 
