@@ -7,9 +7,13 @@ This project integrates a frontend React application (`ai_agent`), a backend Fla
 
 ## 🏗️ Project Structure
 flowbit_assn-main/
+
 ├── ai_agent/ # React frontend application
+
 ├── backend/ # Flask backend server
+
 ├── test_files/ # Test data (JSON, PDF)
+
 └── README.md # Project documentation
 
 
@@ -26,8 +30,9 @@ flowbit_assn-main/
 ---
 
 ### Setup Instructions
+```bash
 
-#### 1️⃣ Frontend (`ai_agent`)
+1️⃣ Frontend (`ai_agent`)
 ```bash
 # Navigate to the frontend directory
 cd ai_agent
@@ -57,6 +62,8 @@ Includes:
 1.json, 2.json: Example JSON data.
 
 email.pdf: Example PDF file.
+
+```bash
 
 📂 Key Files
 ai_agent/src/: React components and assets.
