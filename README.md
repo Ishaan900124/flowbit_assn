@@ -54,6 +54,8 @@ pip install -r requirements.txt
 # Run the Flask server
 python app.py
 
+```
+
 3️⃣ Test Files
 Located in the test_files directory.
 
