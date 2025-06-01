@@ -33,7 +33,7 @@ flowbit_assn-main/
 ```bash
 
 1️⃣ Frontend (`ai_agent`)
-```bash
+
 # Navigate to the frontend directory
 cd ai_agent
 
@@ -63,7 +63,6 @@ Includes:
 
 email.pdf: Example PDF file.
 
-```bash
 
 📂 Key Files
 ai_agent/src/: React components and assets.
