@@ -7,22 +7,23 @@ This project is a combination of a frontend React application (`ai_agent`), a ba
 ## 🏗️ Project Structure
 flowbit_assn-main/
 ├── ai_agent/ # React frontend
+
 ├── backend/ # Flask backend
+
 ├── test_files/ # Test data (JSON, PDF)
+
 └── README.md # Project documentation
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites#### 1. Frontend (`ai_a
+### Prerequisites#### 1. Frontend (`ai_agent`)
 - Node.js (for frontend)
 - Python 3.x (for backend)
 - Flask (for backend server)
 
 ### Setup Instructions
-
-gent`)
 ```bash
 cd ai_agent
 npm install
